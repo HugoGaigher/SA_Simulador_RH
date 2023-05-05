@@ -7,7 +7,7 @@ Neste módulo serão realizadas as simulações que retornam informações que s
 No código se encontram duas macrodivisões entre as funções: as que solicitam e as que calculam.
 
 
-## 1. Funções de Criação de Tela
+## 1. Funções de Criação de Telas
 
 * **_menu_** 
 
@@ -121,7 +121,7 @@ Este módulo é destinado a organizar as informações dos funcionários que for
 
 * **_solicita_cadastro_funcionario_**
  
- Recebe informações do funcionário e os ordena e guarda em um arquivo de texto.
+ Recebe informações do funcionário, ou seja, os parâmetros para que elas sejam organizadas na chamada da função de cadastro.
 
 ## 2. Função de Realização de Cadastro
 
